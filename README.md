@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Somshuvra
-- 👀 I’m interested in ...
+- 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Python, SQL, R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/somshuvra-bandyopadhyay-2792041b4/)
