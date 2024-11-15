@@ -1,5 +1,6 @@
 👋 Hi, I’m Somshuvra
-📫 How to reach me [Linkedin](https://www.linkedin.com/in/somshuvra-bandyopadhyay-2792041b4/)
+
+📫 Reach me on [Linkedin](https://www.linkedin.com/in/somshuvra-bandyopadhyay-2792041b4/)
 
 <!---
 Somshuvra22/Somshuvra22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
